@@ -1,5 +1,7 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource>
     <file>werewolf.jpg</file>
+    <file>sci-fi_bg.jpg</file>
+    <file>sci-fi_bg2.jpg</file>
 </qresource>
 </RCC>
